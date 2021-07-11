@@ -16,3 +16,4 @@ sklearn
 sympy
 tensorflow; python_version < '3.8'
 xgboost
+networkx>=2.6 # not directly required, pinned by Snyk to avoid a vulnerability
